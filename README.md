@@ -20,7 +20,7 @@
 
 ## Project Overview
 
-> **NUS ME5106 Mini Project — Option 3b**
+> **NUS ME5106 Mini Project — Option 3**
 
 This project investigates the relationship between **manufacturing parameters** (laser power & scan speed) and **acoustic signals** captured during laser powder bed fusion (LPBF) additive manufacturing. Using data-driven / machine learning approaches, we extract features from acoustic waveforms and build regression models to **predict unknown Power and Speed values** from the acoustic signal alone.
 
@@ -234,7 +234,7 @@ run('Predict_Speed.m')
 
 ## 项目概述
 
-> **NUS ME5106 Mini Project — Option 3b**
+> **NUS ME5106 Mini Project — Option 3**
 
 本项目研究**激光粉末床熔融（LPBF）增材制造**过程中，**制造参数**（激光功率 Power & 扫描速度 Speed）与**声学信号**之间的关系。通过数据驱动/机器学习方法，从声学波形中提取特征并构建回归模型，**仅凭声学信号预测未知的 Power 和 Speed 值**。
 
